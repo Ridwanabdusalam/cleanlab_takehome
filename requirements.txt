@@ -1,0 +1,12 @@
+# Core dependencies
+litellm>=1.0.0
+python-dotenv>=1.0.0
+
+# Development dependencies
+pytest>=7.0.0
+ipython>=8.0.0
+jupyter>=1.0.0  # If you want to create a notebook demo
+
+# Provider SDKs
+openai>=1.0.0
+google-generativeai>=0.3.0
